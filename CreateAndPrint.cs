@@ -29,7 +29,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var Title = "موسسه ارتباط";
+            var Title = "نام مکان";
             var ImageAddress = @"D:\desk\Nature HD Wallpapers\Nature HD Wallpapers 001.jpg";
             var dt = "1401/02/24";
             var Vadeh = "صبحانه";
@@ -39,7 +39,7 @@ namespace WindowsFormsApp1
             var EmployName = "رضا سلیمانی صفا";
             var Msg = "متن امروز";
             var Reg = DateTime.Now.ToLongDateString();
-            var Resturant = "رستوران المهدی";
+            var Resturant = "نام رستوران";
 
             bmp = new Bitmap(w, h);
 
